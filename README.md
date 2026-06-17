@@ -5,6 +5,6 @@ JavaScript team project for learning and collaboration
 
 ## 🦾🦾 Team Members 🦾🦾 
 ### - Destiny  Mae
-### Phiny
+### - Phiny
 # Building ideas one commit at a time
   
